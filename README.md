@@ -1,6 +1,6 @@
 # What is this?
 
-This is a TodoList app built with ReactJs & React Bootstrap. It is a simple app that allows you to add and mark as complete a task and store it in the browser's local storage. It also allows you to empty the list from the DOM and local storage.
+This is a TodoList app built with ReactJs & React Bootstrap where user can register using mail and login. It is a simple app that allows you to add and mark as complete a task and store it in the browser's local storage. It also allows you to empty the list from the DOM and local storage.
 
 
 # How to run
