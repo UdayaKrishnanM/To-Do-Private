@@ -10,9 +10,10 @@ _Make sure you have NodeJs installed on your machine, if not you can download it
 1. Clone the repo
 2. Run `npm install`
 3. Run `npm i react-router-dom`
-4. Run `npm install react-icons --save`
-5. Run `npm start`
-6. Open `http://localhost:3000` in your browser
+4. Run `npm install axios`
+5. Run `npm install react-icons --save`
+6. Run `npm start`
+7. Open `http://localhost:3000` in your browser
 
 # To connect to backend use this commands in command line
 1. Run `npm i -g express`
