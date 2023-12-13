@@ -9,12 +9,14 @@ _Make sure you have NodeJs installed on your machine, if not you can download it
 
 1. Clone the repo
 2. Run `npm install`
-3. Run `npm start`
-4. Open `http://localhost:3000` in your browser
+3. Run `npm i react-router-dom`
+4. Run `npm install react-icons --save`
+5. Run `npm start`
+6. Open `http://localhost:3000` in your browser
 
 # To connect to backend use this commands in command line
-1. npm i -g express
-2. json-server-auth db.json --port=3002
+1. Run `npm i -g express`
+2. Run `json-server-auth db.json --port=3002`
 
 # How to build for production
 
