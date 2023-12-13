@@ -24,7 +24,8 @@ _Make sure you have NodeJs installed on your machine, if not you can download it
 2. The build files will be in the `build` folder
 
 # Features
-
+-   Register Page
+-   Login Page
 -   Add, Edit or Delete a task
 -   Mark a task as complete
 -   Mark a task as pending
@@ -32,7 +33,6 @@ _Make sure you have NodeJs installed on your machine, if not you can download it
 -   Delete all completed tasks
 -   Empty the list
 -   Supports local storage
--   Supports dark mode
 
 # License
 
