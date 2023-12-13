@@ -1,0 +1,91 @@
+{
+  "task": [
+    {
+      "taskId": 1701419738064,
+      "taskTitle": "asdsadfdergdf",
+      "taskTime": "12/1/2023, 2:05:38 PM",
+      "taskCompleted": false,
+      "id": 7
+    },
+    {
+      "taskId": 1701419742922,
+      "taskTitle": "dsfdsfsdfds",
+      "taskTime": "12/1/2023, 2:05:42 PM",
+      "taskCompleted": false,
+      "id": 8
+    },
+    {
+      "taskId": 1701419792992,
+      "taskTitle": "treset",
+      "taskTime": "12/1/2023, 2:06:32 PM",
+      "taskCompleted": false,
+      "id": 9
+    }
+  ],
+  "users": [
+    {
+      "email": "asiddiq538@gmail.com",
+      "password": "$2a$10$.t9vqrF2fQGEwBcL2cH4/.IW7C9uFHzunbMHqZ5pgQOCBB81jvbU.",
+      "fname": "siddiq",
+      "lname": "as",
+      "cpassword": "1212",
+      "id": 1
+    },
+    {
+      "email": "asiddiq5388@gmail.com",
+      "password": "$2a$10$jmqq6IVIh7lS11Bm.h4BNOOlkqUEC4q8ud5/pQtjuTIQBQQfjVFJm",
+      "fname": "Siddiq",
+      "lname": "test",
+      "cpassword": "pass",
+      "id": 2
+    },
+    {
+      "email": "test@gmail.com",
+      "password": "$2a$10$2AimnGy0v/QLJIJXOx0XA.ogDRLqD817HSJ13ED/vXCYxBWSJAY.y",
+      "fname": "Abubakkare",
+      "lname": "siddiq",
+      "cpassword": "password",
+      "id": 3
+    },
+    {
+      "email": "k@gmail.com",
+      "password": "$2a$10$zGEsFJxikdf1Afwg3Z4mzeDF6rh11zGWOnWZDiPXi7OhnjK/FRJOq",
+      "fname": "sami",
+      "lname": "kalim",
+      "cpassword": "password",
+      "id": 4
+    },
+    {
+      "email": "u1@gmail.com",
+      "password": "$2a$10$2dIJmwUsNitpWEjJ1m.D3O7NfhwVtcPwG.vHug4AoqVRxOeSov9lW",
+      "fname": "Udaya",
+      "lname": "Krishbab",
+      "cpassword": "udaya",
+      "id": 5
+    },
+    {
+      "email": "udaya12@gmail.com",
+      "password": "$2a$10$4Wjdt1JHNxRhY6HXmUxhQOVOJnfBZgmNxq1rCe7OG3k/2r3iTZGLu",
+      "fname": "udaya",
+      "lname": "krishnan",
+      "cpassword": "udaya",
+      "id": 6
+    },
+    {
+      "email": "udayakrishnan@gmail.com",
+      "password": "$2a$10$rSdDIoOsaK5qYpV1U0hI/u/ooOMPVYXbQR5AuhpFHJWiFuhdhdrti",
+      "fname": "udaya",
+      "lname": "krishnan",
+      "cpassword": "udaya",
+      "id": 7
+    },
+    {
+      "email": "udayakrsih@gmail.com",
+      "password": "$2a$10$uILMTODUfrGh.9AVpctEneT98l4gzAxjV47RdlpmTrusguxzzawgS",
+      "fname": "dsd",
+      "lname": "dsf",
+      "cpassword": "udaya",
+      "id": 8
+    }
+  ]
+}
